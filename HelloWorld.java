@@ -1,4 +1,4 @@
-// Your First Program
+// This Java code is Your First Program
 
 class HelloWorld {
     public static void main(String[] args) {
